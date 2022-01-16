@@ -1,7 +1,12 @@
 import "./App.css";
+import Editer from "./components/Editer";
 
 function App() {
-  return <div className="App">hello react js</div>;
+  return (
+    <>
+      <Editer />
+    </>
+  );
 }
 
 export default App;
