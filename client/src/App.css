@@ -1,6 +1,9 @@
+
+
+
 .container {
   width: 60%;
-  background: #fff;
+  background: #FFF;
   box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
   margin: 10px auto 10px auto !important;
   min-height: 100vh;
@@ -12,7 +15,7 @@
   position: sticky;
   top: 0;
   z-index: 1;
-  background: #f3f3f3;
+  background: #F3F3F3;
   border: none !important;
   box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
 }
